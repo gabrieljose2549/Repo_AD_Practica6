@@ -1,0 +1,8 @@
+D:\OneDrive - Escuela Politécnica Nacional\Personal\Anita María\Materias Dictadas\ING Diseño Software\Examen\Examen Equipo\JugadorPartido\obj\Debug\JugadorPartido.csproj.AssemblyReference.cache
+D:\OneDrive - Escuela Politécnica Nacional\Personal\Anita María\Materias Dictadas\ING Diseño Software\Examen\Examen Equipo\JugadorPartido\obj\Debug\JugadorPartido.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Documents\Visual Studio 2022\Examen\JugadorPartido\bin\Debug\JugadorPartido.dll
+C:\Users\Jose\Documents\Visual Studio 2022\Examen\JugadorPartido\bin\Debug\JugadorPartido.pdb
+C:\Users\Jose\Documents\Visual Studio 2022\Examen\JugadorPartido\obj\Debug\JugadorPartido.csproj.AssemblyReference.cache
+C:\Users\Jose\Documents\Visual Studio 2022\Examen\JugadorPartido\obj\Debug\JugadorPartido.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Documents\Visual Studio 2022\Examen\JugadorPartido\obj\Debug\JugadorPartido.dll
+C:\Users\Jose\Documents\Visual Studio 2022\Examen\JugadorPartido\obj\Debug\JugadorPartido.pdb

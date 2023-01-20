@@ -1,0 +1,42 @@
+C:\Users\Jose\Documents\Visual Studio 2022\Examen\ChampionsLeage\obj\Debug\net6.0-windows\ChampionsLeage.csproj.AssemblyReference.cache
+C:\Users\Jose\Documents\Visual Studio 2022\Examen\ChampionsLeage\obj\Debug\net6.0-windows\ChampionsLeage.frmChampions.resources
+C:\Users\Jose\Documents\Visual Studio 2022\Examen\ChampionsLeage\obj\Debug\net6.0-windows\ChampionsLeage.Properties.Resources.resources
+C:\Users\Jose\Documents\Visual Studio 2022\Examen\ChampionsLeage\obj\Debug\net6.0-windows\ChampionsLeage.csproj.GenerateResource.cache
+C:\Users\Jose\Documents\Visual Studio 2022\Examen\ChampionsLeage\obj\Debug\net6.0-windows\ChampionsLeage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose\Documents\Visual Studio 2022\Examen\ChampionsLeage\obj\Debug\net6.0-windows\ChampionsLeage.AssemblyInfoInputs.cache
+C:\Users\Jose\Documents\Visual Studio 2022\Examen\ChampionsLeage\obj\Debug\net6.0-windows\ChampionsLeage.AssemblyInfo.cs
+C:\Users\Jose\Documents\Visual Studio 2022\Examen\ChampionsLeage\obj\Debug\net6.0-windows\ChampionsLeage.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Documents\Visual Studio 2022\Examen\ChampionsLeage\bin\Debug\net6.0-windows\ChampionsLeage.exe
+C:\Users\Jose\Documents\Visual Studio 2022\Examen\ChampionsLeage\bin\Debug\net6.0-windows\ChampionsLeage.deps.json
+C:\Users\Jose\Documents\Visual Studio 2022\Examen\ChampionsLeage\bin\Debug\net6.0-windows\ChampionsLeage.runtimeconfig.json
+C:\Users\Jose\Documents\Visual Studio 2022\Examen\ChampionsLeage\bin\Debug\net6.0-windows\ChampionsLeage.dll
+C:\Users\Jose\Documents\Visual Studio 2022\Examen\ChampionsLeage\bin\Debug\net6.0-windows\ChampionsLeage.pdb
+C:\Users\Jose\Documents\Visual Studio 2022\Examen\ChampionsLeage\bin\Debug\net6.0-windows\JugadorPartido.dll
+C:\Users\Jose\Documents\Visual Studio 2022\Examen\ChampionsLeage\bin\Debug\net6.0-windows\JugadorPartido.pdb
+C:\Users\Jose\Documents\Visual Studio 2022\Examen\ChampionsLeage\obj\Debug\net6.0-windows\ChampionsLeage.csproj.CopyComplete
+C:\Users\Jose\Documents\Visual Studio 2022\Examen\ChampionsLeage\obj\Debug\net6.0-windows\ChampionsLeage.dll
+C:\Users\Jose\Documents\Visual Studio 2022\Examen\ChampionsLeage\obj\Debug\net6.0-windows\refint\ChampionsLeage.dll
+C:\Users\Jose\Documents\Visual Studio 2022\Examen\ChampionsLeage\obj\Debug\net6.0-windows\ChampionsLeage.pdb
+C:\Users\Jose\Documents\Visual Studio 2022\Examen\ChampionsLeage\obj\Debug\net6.0-windows\ChampionsLeage.genruntimeconfig.cache
+C:\Users\Jose\Documents\Visual Studio 2022\Examen\ChampionsLeage\obj\Debug\net6.0-windows\ref\ChampionsLeage.dll
+C:\Users\Jose\Documents\Visual Studio 2022\Correción Examen\ChampionsLeage\bin\Debug\net6.0-windows\ChampionsLeage.exe
+C:\Users\Jose\Documents\Visual Studio 2022\Correción Examen\ChampionsLeage\bin\Debug\net6.0-windows\ChampionsLeage.deps.json
+C:\Users\Jose\Documents\Visual Studio 2022\Correción Examen\ChampionsLeage\bin\Debug\net6.0-windows\ChampionsLeage.runtimeconfig.json
+C:\Users\Jose\Documents\Visual Studio 2022\Correción Examen\ChampionsLeage\bin\Debug\net6.0-windows\ChampionsLeage.dll
+C:\Users\Jose\Documents\Visual Studio 2022\Correción Examen\ChampionsLeage\bin\Debug\net6.0-windows\ChampionsLeage.pdb
+C:\Users\Jose\Documents\Visual Studio 2022\Correción Examen\ChampionsLeage\bin\Debug\net6.0-windows\JugadorPartido.dll
+C:\Users\Jose\Documents\Visual Studio 2022\Correción Examen\ChampionsLeage\bin\Debug\net6.0-windows\JugadorPartido.pdb
+C:\Users\Jose\Documents\Visual Studio 2022\Correción Examen\ChampionsLeage\obj\Debug\net6.0-windows\ChampionsLeage.csproj.AssemblyReference.cache
+C:\Users\Jose\Documents\Visual Studio 2022\Correción Examen\ChampionsLeage\obj\Debug\net6.0-windows\ChampionsLeage.frmChampions.resources
+C:\Users\Jose\Documents\Visual Studio 2022\Correción Examen\ChampionsLeage\obj\Debug\net6.0-windows\ChampionsLeage.Properties.Resources.resources
+C:\Users\Jose\Documents\Visual Studio 2022\Correción Examen\ChampionsLeage\obj\Debug\net6.0-windows\ChampionsLeage.csproj.GenerateResource.cache
+C:\Users\Jose\Documents\Visual Studio 2022\Correción Examen\ChampionsLeage\obj\Debug\net6.0-windows\ChampionsLeage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose\Documents\Visual Studio 2022\Correción Examen\ChampionsLeage\obj\Debug\net6.0-windows\ChampionsLeage.AssemblyInfoInputs.cache
+C:\Users\Jose\Documents\Visual Studio 2022\Correción Examen\ChampionsLeage\obj\Debug\net6.0-windows\ChampionsLeage.AssemblyInfo.cs
+C:\Users\Jose\Documents\Visual Studio 2022\Correción Examen\ChampionsLeage\obj\Debug\net6.0-windows\ChampionsLeage.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Documents\Visual Studio 2022\Correción Examen\ChampionsLeage\obj\Debug\net6.0-windows\ChampionsLeage.csproj.CopyComplete
+C:\Users\Jose\Documents\Visual Studio 2022\Correción Examen\ChampionsLeage\obj\Debug\net6.0-windows\ChampionsLeage.dll
+C:\Users\Jose\Documents\Visual Studio 2022\Correción Examen\ChampionsLeage\obj\Debug\net6.0-windows\refint\ChampionsLeage.dll
+C:\Users\Jose\Documents\Visual Studio 2022\Correción Examen\ChampionsLeage\obj\Debug\net6.0-windows\ChampionsLeage.pdb
+C:\Users\Jose\Documents\Visual Studio 2022\Correción Examen\ChampionsLeage\obj\Debug\net6.0-windows\ChampionsLeage.genruntimeconfig.cache
+C:\Users\Jose\Documents\Visual Studio 2022\Correción Examen\ChampionsLeage\obj\Debug\net6.0-windows\ref\ChampionsLeage.dll
